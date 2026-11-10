@@ -2,17 +2,17 @@ const projects = [
   {
     title: "Project One",
     text: "A short description of what this project does and the tech you used.",
-    link: "https://github.com/your-username/project-one",
+    link: "https://github.com/fazeela-imam-0/project-one",
   },
   {
     title: "Project Two",
     text: "Another project. Mention what problem it solves.",
-    link: "https://github.com/your-username/project-two",
+    link: "https://github.com/fazeela-imam-0/project-two",
   },
   {
     title: "Project Three",
     text: "Something from your web engineering lab work.",
-    link: "https://github.com/your-username/project-three",
+    link: "https://github.com/fazeela-imam-0/project-three",
   },
 ];
 
@@ -87,7 +87,7 @@ export default function App() {
           <h2>Contact</h2>
           <p>Want to work together or just say hi?</p>
           <p>
-            <a href="mailto:you@example.com">you@example.com</a> ·{" "}
+            <a href="mailto:fazeelaimamabbasi.bscsf24@iba-suk.edu.pk ">fazeelaimamabbasi.bscsf24@iba-suk.edu.pk </a> ·{" "}
             <a href="https://github.com/fazeela-imam-0" target="_blank" rel="noreferrer">
               GitHub
             </a>
