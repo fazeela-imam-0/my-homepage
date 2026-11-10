@@ -53,7 +53,7 @@ export default function App() {
           <p>
             I'm a computer science student interested in web engineering. I
             enjoy turning ideas into clean, responsive websites and learning
-            new tools along the way.
+            new tools along the way.yes.
           </p>
           <ul className="skills">
             {skills.map((s) => (
